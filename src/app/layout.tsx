@@ -29,6 +29,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         {/* <!-- End Google Tag Manager (noscript) --> */}
       </head>
       <body>
+        SALAM
         <Header />
         <main>{children}</main>
         <Footer />
