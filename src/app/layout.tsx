@@ -1,4 +1,3 @@
-import type { Metadata } from "next";
 
 import Footer from "src/components/footer";
 import { GoogleAnalyticsTracking } from "src/components/GoogleAnalytics";
